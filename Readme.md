@@ -9,5 +9,5 @@ This is an one of very important Digital forgery Problem.
 12 basic feature extraction using Normal, parrallel and GPU computing.
 
 #Classification
-``` Classification updated it uses pandas and applied for SVM, DEcisionTREE, and K-Mean Algorithm"
+``` Classification updated it uses pandas and applied for SVM, DEcisionTREE, and K-Mean Algorithm.```
   
